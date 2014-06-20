@@ -21,7 +21,7 @@ js-base-fun
 * wywJs.version :
 * wywJs.noop : 空函数
 * wywJs.extend : 对象扩展
-| wywJs.event :
+* wywJs.event :
 *　　　　.disable : 事件禁止
 * wywJs.math :
 * 　　　　.add : 加法运算
